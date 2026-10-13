@@ -1,0 +1,12 @@
+{
+  "totalFrames": 300,
+  "startFrame": 1,
+  "defaultStartFrame": 4,
+  "endFrame": 300,
+  "fileNamePattern": "frames/ezgif-frame-{number}.jpg",
+  "digits": 3,
+  "width": 3840,
+  "height": 2160,
+  "aspectRatio": 1.7777777778,
+  "fps": 30
+}
